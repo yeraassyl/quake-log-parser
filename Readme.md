@@ -57,6 +57,8 @@ Match structure:
 
 `Finished` property indicates if a match successfully exited (`EXIT` command). `ExitReason` displays the conclusion of the match.
 
-## Run
+## Running the program
 
-`go run .`
+You can run this program just by using this command. 
+
+```go run .```
