@@ -16,8 +16,6 @@ InitGame initializes the match, ShutdownGame shuts down the match, while Exit se
 
 Exit indicates that the match is concluded and shows final score, including ping, client info. Or red vs blue scores depending on the match type. The match type and other properties of the match are decided at the InitGame.  
 
-I need you to first check for the consistency of this log file using the information I have, specifically check if there is no InitGame before ShutDownGame or something like that.
-
 All the players have ID, including \<world>. The logs with commands Kill, Item, ClientConnect, ClientBegin, ClientUserInfoChanged, ClientDisconnect display player ID after a command. 
 I need to collect all the information about the match that can be gathered or aggregated from this logs. For example death_count, total_kills, player_score, match_type and so on.
 
