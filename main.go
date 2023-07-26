@@ -2,6 +2,7 @@ package main
 
 import (
 	"bufio"
+	"encoding/json"
 	"fmt"
 	"log"
 	"os"
@@ -29,51 +30,59 @@ type Game struct {
 // All I care about is if all the matches are initialized and shut down correctly
 // Because if not, it will mess with the consistency and correctness of match reports.
 
-func checkConsistency(filePath string) (bool, error) {
+func checkConsistency(filePath string) (bool, int, error) {
 	file, err := os.Open(filePath)
 
 	if err != nil {
-		return false, err
+		return false, 0, err
 	}
 
 	defer file.Close()
 
 	scanner := bufio.NewScanner(file)
 	initGame := false
-	shutdownGame := false
+	exit := false
 
+	cnt := 1
 	for scanner.Scan() {
 		line := scanner.Text()
 
 		if strings.Contains(line, "InitGame") {
+			if initGame {
+				return false, cnt, nil
+			}
 			initGame = true
-			shutdownGame = false
-		} else if strings.Contains(line, "ShutdownGame") {
-			shutdownGame = true
+		} else if strings.Contains(line, "Exit") {
 			if !initGame {
-				return false, nil
+				return false, cnt, nil
 			} else {
 				initGame = false
-				shutdownGame = false
+			}
+			exit = true
+		} else if strings.Contains(line, "ShutdownGame"){
+			if exit {
+				exit = false
+				initGame = false
+				cnt++
+				continue
+			}
+			if !initGame {
+				return false, cnt, nil
+			} else {
+				initGame = false
 			}
 		}
+		cnt++
 	}
 
-	if initGame && !shutdownGame {
-		return false, nil
+	if initGame {
+		return false, cnt, nil
 	}
 
-	return true, nil
+	return true, cnt, nil
 }
 
-func main() {
-	filePath := "qgames.log"
-	isConsistent, err := checkConsistency(filePath)
-
-	if err != nil || !isConsistent {
-		log.Fatal(err)
-	}
-
+func parseLogs(filePath string) ([]Game, error) {
 	file, _ := os.Open(filePath)
 
 	defer file.Close()
@@ -91,9 +100,8 @@ func main() {
 		command := parts[1][:len(parts[1])-1] // Remove the ":" at the end
 
 		if command == "InitGame" {
-			// If there is a current game, add it to the list of games
 			if game != nil {
-				games = append(games, *game)
+				return nil, fmt.Errorf("Logfile is not consistent")
 			}
 			// Start a new game and reset the players
 			game = &Game{Settings: make(map[string]string), Players: make(map[string]Player), Mod: make(map[string]int)}
@@ -132,7 +140,7 @@ func main() {
 			players[killedID].DeathCount++
 		} else if game != nil && command == "ClientDisconnect" {
 			playerID := parts[2]
-			
+
 			// Remove disconnected player from players but add his info to the game report
 			game.Players[players[playerID].Name] = *players[playerID]
 			delete(players, playerID)
@@ -146,20 +154,57 @@ func main() {
 			players = nil
 
 		} else if game != nil && command == "Exit" {
+			for _, player := range players {
+				game.Players[player.Name] = *player
+			}
 			game.Finished = true
 			game.ExitReason = strings.Join(parts[2:], " ")
+			games = append(games, *game)
+			game = nil
+			players = nil
 		}
 	}
 
-	// If there's an ongoing game at the end of the logs, add it to the games
-	if game != nil {
-		games = append(games, *game)
+	return games, nil
+}
+
+func main() {
+	filePath := "qgames.log"
+	isConsistent, line, err := checkConsistency(filePath)
+
+	if err != nil{
+		log.Fatal(err)
 	}
 
-	//Print the games
-	for _, game := range games {
-		fmt.Println(game)
+	if !isConsistent {
+		log.Fatalf("Log is not consistent at line: %d", line)
 	}
+
+	games, err := parseLogs(filePath)
+
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	file, err := os.OpenFile(
+		"output.json",
+		os.O_WRONLY|os.O_TRUNC|os.O_CREATE,
+		0666,
+	)
+
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	defer file.Close()
+
+	encoder := json.NewEncoder(file)
+	err = encoder.Encode(games)
+
+	if err != nil {
+		log.Fatal(err)
+	}
+	fmt.Println("Report generated")
 }
 
 // 1. Read the log file
