@@ -1,3 +1,5 @@
+# Quake log parser
+
 Parse logs of the quake 3 arena server and group them by each match.
 
 ## Thought Process
