@@ -1,1 +1,1199 @@
-[{"Settings":{"capturelimit":"8","dmflags":"0","fraglimit":"20","g_gametype":"0","g_maxGameClients":"0","g_needpass":"0","gamename":"baseq3","mapname":"q3dm17","protocol":"68","sv_allowDownload":"0","sv_floodProtect":"1","sv_hostname":"Code Miner Server","sv_maxPing":"0","sv_maxRate":"10000","sv_maxclients":"16","sv_minPing":"0","sv_minRate":"0","sv_privateClients":"2","timelimit":"15","version":"ioq3 1.36 linux-x86_64 Apr 12 2009"},"Players":{"Dono da Bola":{"Name":"Dono da Bola","DeathCount":2,"KillCount":1},"Isgalamido":{"Name":"Isgalamido","DeathCount":0,"KillCount":0},"Zeh":{"Name":"Zeh","DeathCount":2,"KillCount":0}},"Kills":4,"Mod":{"":4},"Finished":false,"ExitReason":""},{"Settings":{"bot_minplayers":"0","capturelimit":"8","dmflags":"0","fraglimit":"20","g_gametype":"0","g_maxGameClients":"0","g_needpass":"0","gamename":"baseq3","mapname":"q3dm17","protocol":"68","sv_allowDownload":"0","sv_floodProtect":"1","sv_hostname":"Code Miner Server","sv_maxPing":"0","sv_maxRate":"10000","sv_maxclients":"16","sv_minPing":"0","sv_minRate":"0","sv_privateClients":"2","timelimit":"15","version":"ioq3 1.36 linux-x86_64 Apr 12 2009"},"Players":{"Assasinu Credi":{"Name":"Assasinu Credi","DeathCount":24,"KillCount":21},"Dono da Bola":{"Name":"Dono da Bola","DeathCount":31,"KillCount":24},"Isgalamido":{"Name":"Isgalamido","DeathCount":23,"KillCount":15},"Zeh":{"Name":"Zeh","DeathCount":27,"KillCount":25}},"Kills":105,"Mod":{"":105},"Finished":true,"ExitReason":"Fraglimit hit."},{"Settings":{"bot_minplayers":"0","capturelimit":"8","dmflags":"0","fraglimit":"20","g_gametype":"0","g_maxGameClients":"0","g_needpass":"0","gamename":"baseq3","mapname":"q3dm17","protocol":"68","sv_allowDownload":"0","sv_floodProtect":"1","sv_hostname":"Code Miner Server","sv_maxPing":"0","sv_maxRate":"10000","sv_maxclients":"16","sv_minPing":"0","sv_minRate":"0","sv_privateClients":"2","timelimit":"15","version":"ioq3 1.36 linux-x86_64 Apr 12 2009"},"Players":{"Assasinu Credi":{"Name":"Assasinu Credi","DeathCount":8,"KillCount":4},"Dono da Bola":{"Name":"Dono da Bola","DeathCount":1,"KillCount":1},"Isgalamido":{"Name":"Isgalamido","DeathCount":0,"KillCount":0},"Zeh":{"Name":"Zeh","DeathCount":4,"KillCount":3}},"Kills":14,"Mod":{"":14},"Finished":true,"ExitReason":"Timelimit hit."},{"Settings":{"capturelimit":"8","dmflags":"0","fraglimit":"20","g_gametype":"0","g_maxGameClients":"0","g_needpass":"0","gamename":"baseq3","mapname":"q3dm17","protocol":"68","sv_allowDownload":"0","sv_floodProtect":"1","sv_hostname":"Code Miner Server","sv_maxPing":"0","sv_maxRate":"10000","sv_maxclients":"16","sv_minPing":"0","sv_minRate":"0","sv_privateClients":"2","timelimit":"15","version":"ioq3 1.36 linux-x86_64 Apr 12 2009"},"Players":{"Assasinu Credi":{"Name":"Assasinu Credi","DeathCount":3,"KillCount":3},"Dono da Bola":{"Name":"Dono da Bola","DeathCount":5,"KillCount":5},"Isgalamido":{"Name":"Isgalamido","DeathCount":7,"KillCount":6},"Mal":{"Name":"Mal","DeathCount":4,"KillCount":3},"Oootsimo":{"Name":"Oootsimo","DeathCount":2,"KillCount":1},"Zeh":{"Name":"Zeh","DeathCount":8,"KillCount":7}},"Kills":29,"Mod":{"":29},"Finished":false,"ExitReason":""},{"Settings":{"bot_minplayers":"0","capturelimit":"8","dmflags":"0","fraglimit":"20","g_gametype":"0","g_maxGameClients":"0","g_needpass":"0","gamename":"baseq3","mapname":"q3dm17","protocol":"68","sv_allowDownload":"0","sv_floodProtect":"1","sv_hostname":"Code Miner Server","sv_maxPing":"0","sv_maxRate":"10000","sv_maxclients":"16","sv_minPing":"0","sv_minRate":"0","sv_privateClients":"2","timelimit":"15","version":"ioq3 1.36 linux-x86_64 Apr 12 2009"},"Players":{"Assasinu Credi":{"Name":"Assasinu Credi","DeathCount":19,"KillCount":19},"Chessus":{"Name":"Chessus","DeathCount":2,"KillCount":2},"Dono da Bola":{"Name":"Dono da Bola","DeathCount":26,"KillCount":24},"Isgalamido":{"Name":"Isgalamido","DeathCount":15,"KillCount":11},"Mal":{"Name":"Mal","DeathCount":28,"KillCount":16},"Oootsimo":{"Name":"Oootsimo","DeathCount":19,"KillCount":15},"Zeh":{"Name":"Zeh","DeathCount":21,"KillCount":16}},"Kills":130,"Mod":{"":130},"Finished":true,"ExitReason":"Fraglimit hit."},{"Settings":{"bot_minplayers":"0","capturelimit":"8","dmflags":"0","fraglimit":"20","g_gametype":"0","g_maxGameClients":"0","g_needpass":"0","gamename":"baseq3","mapname":"q3dm17","protocol":"68","sv_allowDownload":"0","sv_floodProtect":"1","sv_hostname":"Code Miner Server","sv_maxPing":"0","sv_maxRate":"10000","sv_maxclients":"16","sv_minPing":"0","sv_minRate":"0","sv_privateClients":"2","timelimit":"15","version":"ioq3 1.36 linux-x86_64 Apr 12 2009"},"Players":{"Assasinu Credi":{"Name":"Assasinu Credi","DeathCount":17,"KillCount":15},"Dono da Bola":{"Name":"Dono da Bola","DeathCount":16,"KillCount":14},"Isgalamido":{"Name":"Isgalamido","DeathCount":11,"KillCount":7},"Mal":{"Name":"Mal","DeathCount":20,"KillCount":17},"Oootsimo":{"Name":"Oootsimo","DeathCount":14,"KillCount":13},"Zeh":{"Name":"Zeh","DeathCount":11,"KillCount":8}},"Kills":89,"Mod":{"":89},"Finished":true,"ExitReason":"Fraglimit hit."},{"Settings":{"bot_minplayers":"0","capturelimit":"8","dmflags":"0","fraglimit":"20","g_gametype":"0","g_maxGameClients":"0","g_needpass":"0","gamename":"baseq3","mapname":"q3dm17","protocol":"68","sv_allowDownload":"0","sv_floodProtect":"1","sv_hostname":"Code Miner Server","sv_maxPing":"0","sv_maxRate":"10000","sv_maxclients":"16","sv_minPing":"0","sv_minRate":"0","sv_privateClients":"2","timelimit":"15","version":"ioq3 1.36 linux-x86_64 Apr 12 2009"},"Players":{"Assasinu Credi":{"Name":"Assasinu Credi","DeathCount":14,"KillCount":13},"Chessus":{"Name":"Chessus","DeathCount":3,"KillCount":2},"Dono da Bola":{"Name":"Dono da Bola","DeathCount":1,"KillCount":0},"Isgalamido":{"Name":"Isgalamido","DeathCount":1,"KillCount":1},"Mal":{"Name":"Mal","DeathCount":15,"KillCount":11},"Oootsimo":{"Name":"Oootsimo","DeathCount":12,"KillCount":12},"Zeh":{"Name":"Zeh","DeathCount":15,"KillCount":12}},"Kills":67,"Mod":{"":67},"Finished":false,"ExitReason":""},{"Settings":{"bot_minplayers":"0","capturelimit":"8","dmflags":"0","fraglimit":"20","g_gametype":"0","g_maxGameClients":"0","g_needpass":"0","gamename":"baseq3","mapname":"Q3TOURNEY6_CTF","protocol":"68","sv_allowDownload":"0","sv_floodProtect":"1","sv_hostname":"Code Miner Server","sv_maxPing":"0","sv_maxRate":"10000","sv_maxclients":"16","sv_minPing":"0","sv_minRate":"0","sv_privateClients":"2","timelimit":"15","version":"ioq3 1.36 linux-x86_64 Apr 12 2009"},"Players":{"Assasinu Credi":{"Name":"Assasinu Credi","DeathCount":8,"KillCount":6},"Chessus":{"Name":"Chessus","DeathCount":9,"KillCount":8},"Dono da Bola":{"Name":"Dono da Bola","DeathCount":3,"KillCount":1},"Isgalamido":{"Name":"Isgalamido","DeathCount":13,"KillCount":9},"Mal":{"Name":"Mal","DeathCount":14,"KillCount":9},"Oootsimo":{"Name":"Oootsimo","DeathCount":8,"KillCount":6},"Zeh":{"Name":"Zeh","DeathCount":5,"KillCount":3}},"Kills":60,"Mod":{"":60},"Finished":false,"ExitReason":""},{"Settings":{"bot_minplayers":"0","capturelimit":"8","dmflags":"0","fraglimit":"20","g_gametype":"4","g_maxGameClients":"0","g_needpass":"0","gamename":"baseq3","mapname":"Q3TOURNEY6_CTF","protocol":"68","sv_allowDownload":"0","sv_floodProtect":"1","sv_hostname":"Code Miner Server","sv_maxPing":"0","sv_maxRate":"10000","sv_maxclients":"16","sv_minPing":"0","sv_minRate":"0","sv_privateClients":"2","timelimit":"15","version":"ioq3 1.36 linux-x86_64 Apr 12 2009"},"Players":{"Assasinu Credi":{"Name":"Assasinu Credi","DeathCount":4,"KillCount":1},"Chessus":{"Name":"Chessus","DeathCount":3,"KillCount":3},"Dono da Bola":{"Name":"Dono da Bola","DeathCount":5,"KillCount":2},"Isgalamido":{"Name":"Isgalamido","DeathCount":4,"KillCount":2},"Mal":{"Name":"Mal","DeathCount":1,"KillCount":1},"Oootsimo":{"Name":"Oootsimo","DeathCount":1,"KillCount":1},"Zeh":{"Name":"Zeh","DeathCount":2,"KillCount":2}},"Kills":20,"Mod":{"":20},"Finished":false,"ExitReason":""},{"Settings":{"bot_minplayers":"0","capturelimit":"8","dmflags":"0","fraglimit":"20","g_gametype":"4","g_maxGameClients":"0","g_needpass":"0","gamename":"baseq3","mapname":"Q3TOURNEY6_CTF","protocol":"68","sv_allowDownload":"0","sv_floodProtect":"1","sv_hostname":"Code Miner Server","sv_maxPing":"0","sv_maxRate":"10000","sv_maxclients":"16","sv_minPing":"0","sv_minRate":"0","sv_privateClients":"2","timelimit":"15","version":"ioq3 1.36 linux-x86_64 Apr 12 2009"},"Players":{"Assasinu Credi":{"Name":"Assasinu Credi","DeathCount":19,"KillCount":16},"Chessus":{"Name":"Chessus","DeathCount":24,"KillCount":20},"Dono da Bola":{"Name":"Dono da Bola","DeathCount":31,"KillCount":23},"Isgalamido":{"Name":"Isgalamido","DeathCount":21,"KillCount":21},"Mal":{"Name":"Mal","DeathCount":26,"KillCount":12},"Oootsimo":{"Name":"Oootsimo","DeathCount":23,"KillCount":14},"Zeh":{"Name":"Zeh","DeathCount":16,"KillCount":15}},"Kills":160,"Mod":{"":160},"Finished":true,"ExitReason":"Capturelimit hit."},{"Settings":{"bot_minplayers":"0","capturelimit":"8","dmflags":"0","fraglimit":"20","g_gametype":"4","g_maxGameClients":"0","g_needpass":"0","gamename":"baseq3","mapname":"Q3TOURNEY6_CTF","protocol":"68","sv_allowDownload":"0","sv_floodProtect":"1","sv_hostname":"Code Miner Server","sv_maxPing":"0","sv_maxRate":"10000","sv_maxclients":"16","sv_minPing":"0","sv_minRate":"0","sv_privateClients":"2","timelimit":"15","version":"ioq3 1.36 linux-x86_64 Apr 12 2009"},"Players":{"Assasinu Credi":{"Name":"Assasinu Credi","DeathCount":2,"KillCount":2},"Chessus":{"Name":"Chessus","DeathCount":0,"KillCount":0},"Dono da Bola":{"Name":"Dono da Bola","DeathCount":2,"KillCount":1},"Isgalamido":{"Name":"Isgalamido","DeathCount":1,"KillCount":0},"Mal":{"Name":"Mal","DeathCount":0,"KillCount":0},"Oootsimo":{"Name":"Oootsimo","DeathCount":1,"KillCount":1},"Zeh":{"Name":"Zeh","DeathCount":0,"KillCount":0}},"Kills":6,"Mod":{"":6},"Finished":false,"ExitReason":""},{"Settings":{"bot_minplayers":"0","capturelimit":"8","dmflags":"0","fraglimit":"20","g_gametype":"4","g_maxGameClients":"0","g_needpass":"0","gamename":"baseq3","mapname":"Q3TOURNEY6_CTF","protocol":"68","sv_allowDownload":"0","sv_floodProtect":"1","sv_hostname":"Code Miner Server","sv_maxPing":"0","sv_maxRate":"10000","sv_maxclients":"16","sv_minPing":"0","sv_minRate":"0","sv_privateClients":"2","timelimit":"15","version":"ioq3 1.36 linux-x86_64 Apr 12 2009"},"Players":{"Assasinu Credi":{"Name":"Assasinu Credi","DeathCount":19,"KillCount":14},"Chessus":{"Name":"Chessus","DeathCount":14,"KillCount":11},"Dono da Bola":{"Name":"Dono da Bola","DeathCount":25,"KillCount":18},"Isgalamido":{"Name":"Isgalamido","DeathCount":12,"KillCount":9},"Mal":{"Name":"Mal","DeathCount":20,"KillCount":12},"Oootsimo":{"Name":"Oootsimo","DeathCount":11,"KillCount":8},"Zeh":{"Name":"Zeh","DeathCount":21,"KillCount":14}},"Kills":122,"Mod":{"":122},"Finished":true,"ExitReason":"Capturelimit hit."},{"Settings":{"bot_minplayers":"0","capturelimit":"8","dmflags":"0","fraglimit":"20","g_gametype":"4","g_maxGameClients":"0","g_needpass":"0","gamename":"baseq3","mapname":"Q3TOURNEY6_CTF","protocol":"68","sv_allowDownload":"0","sv_floodProtect":"1","sv_hostname":"Code Miner Server","sv_maxPing":"0","sv_maxRate":"10000","sv_maxclients":"16","sv_minPing":"0","sv_minRate":"0","sv_privateClients":"2","timelimit":"15","version":"ioq3 1.36 linux-x86_64 Apr 12 2009"},"Players":{"Assasinu Credi":{"Name":"Assasinu Credi","DeathCount":0,"KillCount":0},"Zeh":{"Name":"Zeh","DeathCount":3,"KillCount":0}},"Kills":3,"Mod":{"":3},"Finished":true,"ExitReason":"Timelimit hit."},{"Settings":{"bot_minplayers":"0","capturelimit":"8","dmflags":"0","fraglimit":"20","g_gametype":"4","g_maxGameClients":"0","g_needpass":"0","gamename":"baseq3","mapname":"q3dm17","protocol":"68","sv_allowDownload":"0","sv_floodProtect":"1","sv_hostname":"Code Miner Server","sv_maxPing":"0","sv_maxRate":"10000","sv_maxclients":"16","sv_minPing":"0","sv_minRate":"0","sv_privateClients":"2","timelimit":"15","version":"ioq3 1.36 linux-x86_64 Apr 12 2009"},"Players":{"Assasinu Credi":{"Name":"Assasinu Credi","DeathCount":4,"KillCount":1},"Dono da Bola":{"Name":"Dono da Bola","DeathCount":2,"KillCount":0},"Isgalamido":{"Name":"Isgalamido","DeathCount":1,"KillCount":0},"Mal":{"Name":"Mal","DeathCount":1,"KillCount":0},"Oootsimo":{"Name":"Oootsimo","DeathCount":3,"KillCount":2},"Zeh":{"Name":"Zeh","DeathCount":2,"KillCount":1}},"Kills":13,"Mod":{"":13},"Finished":false,"ExitReason":""},{"Settings":{"bot_minplayers":"0","capturelimit":"8","dmflags":"0","fraglimit":"20","g_gametype":"= 0","g_maxGameClients":"0","g_needpass":"0","gamename":"baseq3","mapname":"q3dm17","protocol":"68","sv_allowDownload":"0","sv_floodProtect":"1","sv_hostname":"Code Miner Server","sv_maxPing":"0","sv_maxRate":"10000","sv_maxclients":"16","sv_minPing":"0","sv_minRate":"0","sv_privateClients":"2","timelimit":"15","version":"ioq3 1.36 linux-x86_64 Apr 12 2009"},"Players":{"Assasinu Credi":{"Name":"Assasinu Credi","DeathCount":1,"KillCount":1},"Dono da Bola":{"Name":"Dono da Bola","DeathCount":1,"KillCount":0},"Isgalamido":{"Name":"Isgalamido","DeathCount":1,"KillCount":1},"Mal":{"Name":"Mal","DeathCount":2,"KillCount":1},"Oootsimo":{"Name":"Oootsimo","DeathCount":1,"KillCount":1},"Zeh":{"Name":"Zeh","DeathCount":1,"KillCount":1}},"Kills":7,"Mod":{"":7},"Finished":false,"ExitReason":""},{"Settings":{"bot_minplayers":"0","capturelimit":"8","dmflags":"0","fraglimit":"20","g_gametype":"= 0","g_maxGameClients":"0","g_needpass":"0","gamename":"baseq3","mapname":"q3dm17","protocol":"68","sv_allowDownload":"0","sv_floodProtect":"1","sv_hostname":"Code Miner Server","sv_maxPing":"0","sv_maxRate":"10000","sv_maxclients":"16","sv_minPing":"0","sv_minRate":"0","sv_privateClients":"2","timelimit":"15","version":"ioq3 1.36 linux-x86_64 Apr 12 2009"},"Players":{"Assasinu Credi":{"Name":"Assasinu Credi","DeathCount":17,"KillCount":14},"Dono da Bola":{"Name":"Dono da Bola","DeathCount":15,"KillCount":14},"Isgalamido":{"Name":"Isgalamido","DeathCount":12,"KillCount":11},"Mal":{"Name":"Mal","DeathCount":19,"KillCount":13},"Oootsimo":{"Name":"Oootsimo","DeathCount":14,"KillCount":13},"Zeh":{"Name":"Zeh","DeathCount":18,"KillCount":17}},"Kills":95,"Mod":{"":95},"Finished":true,"ExitReason":"Fraglimit hit."},{"Settings":{"bot_minplayers":"0","capturelimit":"8","dmflags":"0","fraglimit":"20","g_gametype":"= 0","g_maxGameClients":"0","g_needpass":"0","gamename":"baseq3","mapname":"q3dm17","protocol":"68","sv_allowDownload":"0","sv_floodProtect":"1","sv_hostname":"Code Miner Server","sv_maxPing":"0","sv_maxRate":"10000","sv_maxclients":"16","sv_minPing":"0","sv_minRate":"0","sv_privateClients":"2","timelimit":"15","version":"ioq3 1.36 linux-x86_64 Apr 12 2009"},"Players":{"Assasinu Credi":{"Name":"Assasinu Credi","DeathCount":1,"KillCount":1},"Dono da Bola":{"Name":"Dono da Bola","DeathCount":1,"KillCount":1},"Isgalamido":{"Name":"Isgalamido","DeathCount":0,"KillCount":0},"Mal":{"Name":"Mal","DeathCount":0,"KillCount":0},"Oootsimo":{"Name":"Oootsimo","DeathCount":0,"KillCount":0},"Zeh":{"Name":"Zeh","DeathCount":1,"KillCount":1}},"Kills":3,"Mod":{"":3},"Finished":false,"ExitReason":""},{"Settings":{"bot_minplayers":"0","capturelimit":"8","dmflags":"0","fraglimit":"20","g_gametype":"= 0","g_maxGameClients":"0","g_needpass":"0","gamename":"baseq3","mapname":"q3dm17","protocol":"68","sv_allowDownload":"0","sv_floodProtect":"1","sv_hostname":"Code Miner Server","sv_maxPing":"0","sv_maxRate":"10000","sv_maxclients":"16","sv_minPing":"0","sv_minRate":"0","sv_privateClients":"2","timelimit":"15","version":"ioq3 1.36 linux-x86_64 Apr 12 2009"},"Players":{"Assasinu Credi":{"Name":"Assasinu Credi","DeathCount":30,"KillCount":27},"Dono da Bola":{"Name":"Dono da Bola","DeathCount":19,"KillCount":17},"Isgalamido":{"Name":"Isgalamido","DeathCount":19,"KillCount":17},"Mal":{"Name":"Mal","DeathCount":30,"KillCount":24},"Oootsimo":{"Name":"Oootsimo","DeathCount":18,"KillCount":16},"Zeh":{"Name":"Zeh","DeathCount":15,"KillCount":13}},"Kills":131,"Mod":{"":131},"Finished":true,"ExitReason":"Fraglimit hit."}]
+[
+    {
+        "Settings": {
+            "capturelimit": "8",
+            "dmflags": "0",
+            "fraglimit": "20",
+            "g_gametype": "0",
+            "g_maxGameClients": "0",
+            "g_needpass": "0",
+            "gamename": "baseq3",
+            "mapname": "q3dm17",
+            "protocol": "68",
+            "sv_allowDownload": "0",
+            "sv_floodProtect": "1",
+            "sv_hostname": "Code Miner Server",
+            "sv_maxPing": "0",
+            "sv_maxRate": "10000",
+            "sv_maxclients": "16",
+            "sv_minPing": "0",
+            "sv_minRate": "0",
+            "sv_privateClients": "2",
+            "timelimit": "15",
+            "version": "ioq3 1.36 linux-x86_64 Apr 12 2009"
+        },
+        "Players": {
+            "Dono da Bola": {
+                "Name": "Dono da Bola",
+                "DeathCount": 2,
+                "KillCount": 1
+            },
+            "Isgalamido": {
+                "Name": "Isgalamido",
+                "DeathCount": 0,
+                "KillCount": 0
+            },
+            "Zeh": {
+                "Name": "Zeh",
+                "DeathCount": 2,
+                "KillCount": 0
+            }
+        },
+        "Kills": 4,
+        "Mod": {
+            "MOD_FALLING": 1,
+            "MOD_ROCKET": 1,
+            "MOD_TRIGGER_HURT": 2
+        },
+        "Finished": false,
+        "ExitReason": ""
+    },
+    {
+        "Settings": {
+            "bot_minplayers": "0",
+            "capturelimit": "8",
+            "dmflags": "0",
+            "fraglimit": "20",
+            "g_gametype": "0",
+            "g_maxGameClients": "0",
+            "g_needpass": "0",
+            "gamename": "baseq3",
+            "mapname": "q3dm17",
+            "protocol": "68",
+            "sv_allowDownload": "0",
+            "sv_floodProtect": "1",
+            "sv_hostname": "Code Miner Server",
+            "sv_maxPing": "0",
+            "sv_maxRate": "10000",
+            "sv_maxclients": "16",
+            "sv_minPing": "0",
+            "sv_minRate": "0",
+            "sv_privateClients": "2",
+            "timelimit": "15",
+            "version": "ioq3 1.36 linux-x86_64 Apr 12 2009"
+        },
+        "Players": {
+            "Assasinu Credi": {
+                "Name": "Assasinu Credi",
+                "DeathCount": 24,
+                "KillCount": 21
+            },
+            "Dono da Bola": {
+                "Name": "Dono da Bola",
+                "DeathCount": 31,
+                "KillCount": 24
+            },
+            "Isgalamido": {
+                "Name": "Isgalamido",
+                "DeathCount": 23,
+                "KillCount": 15
+            },
+            "Zeh": {
+                "Name": "Zeh",
+                "DeathCount": 27,
+                "KillCount": 25
+            }
+        },
+        "Kills": 105,
+        "Mod": {
+            "MOD_FALLING": 11,
+            "MOD_MACHINEGUN": 4,
+            "MOD_RAILGUN": 8,
+            "MOD_ROCKET": 20,
+            "MOD_ROCKET_SPLASH": 51,
+            "MOD_SHOTGUN": 2,
+            "MOD_TRIGGER_HURT": 9
+        },
+        "Finished": true,
+        "ExitReason": "Fraglimit hit."
+    },
+    {
+        "Settings": {
+            "bot_minplayers": "0",
+            "capturelimit": "8",
+            "dmflags": "0",
+            "fraglimit": "20",
+            "g_gametype": "0",
+            "g_maxGameClients": "0",
+            "g_needpass": "0",
+            "gamename": "baseq3",
+            "mapname": "q3dm17",
+            "protocol": "68",
+            "sv_allowDownload": "0",
+            "sv_floodProtect": "1",
+            "sv_hostname": "Code Miner Server",
+            "sv_maxPing": "0",
+            "sv_maxRate": "10000",
+            "sv_maxclients": "16",
+            "sv_minPing": "0",
+            "sv_minRate": "0",
+            "sv_privateClients": "2",
+            "timelimit": "15",
+            "version": "ioq3 1.36 linux-x86_64 Apr 12 2009"
+        },
+        "Players": {
+            "Assasinu Credi": {
+                "Name": "Assasinu Credi",
+                "DeathCount": 8,
+                "KillCount": 4
+            },
+            "Dono da Bola": {
+                "Name": "Dono da Bola",
+                "DeathCount": 1,
+                "KillCount": 1
+            },
+            "Isgalamido": {
+                "Name": "Isgalamido",
+                "DeathCount": 0,
+                "KillCount": 0
+            },
+            "Zeh": {
+                "Name": "Zeh",
+                "DeathCount": 4,
+                "KillCount": 3
+            }
+        },
+        "Kills": 14,
+        "Mod": {
+            "MOD_RAILGUN": 1,
+            "MOD_ROCKET": 4,
+            "MOD_ROCKET_SPLASH": 4,
+            "MOD_TRIGGER_HURT": 5
+        },
+        "Finished": true,
+        "ExitReason": "Timelimit hit."
+    },
+    {
+        "Settings": {
+            "capturelimit": "8",
+            "dmflags": "0",
+            "fraglimit": "20",
+            "g_gametype": "0",
+            "g_maxGameClients": "0",
+            "g_needpass": "0",
+            "gamename": "baseq3",
+            "mapname": "q3dm17",
+            "protocol": "68",
+            "sv_allowDownload": "0",
+            "sv_floodProtect": "1",
+            "sv_hostname": "Code Miner Server",
+            "sv_maxPing": "0",
+            "sv_maxRate": "10000",
+            "sv_maxclients": "16",
+            "sv_minPing": "0",
+            "sv_minRate": "0",
+            "sv_privateClients": "2",
+            "timelimit": "15",
+            "version": "ioq3 1.36 linux-x86_64 Apr 12 2009"
+        },
+        "Players": {
+            "Assasinu Credi": {
+                "Name": "Assasinu Credi",
+                "DeathCount": 3,
+                "KillCount": 3
+            },
+            "Dono da Bola": {
+                "Name": "Dono da Bola",
+                "DeathCount": 5,
+                "KillCount": 5
+            },
+            "Isgalamido": {
+                "Name": "Isgalamido",
+                "DeathCount": 7,
+                "KillCount": 6
+            },
+            "Mal": {
+                "Name": "Mal",
+                "DeathCount": 4,
+                "KillCount": 3
+            },
+            "Oootsimo": {
+                "Name": "Oootsimo",
+                "DeathCount": 2,
+                "KillCount": 1
+            },
+            "Zeh": {
+                "Name": "Zeh",
+                "DeathCount": 8,
+                "KillCount": 7
+            }
+        },
+        "Kills": 29,
+        "Mod": {
+            "MOD_FALLING": 1,
+            "MOD_MACHINEGUN": 1,
+            "MOD_RAILGUN": 2,
+            "MOD_ROCKET": 5,
+            "MOD_ROCKET_SPLASH": 13,
+            "MOD_SHOTGUN": 4,
+            "MOD_TRIGGER_HURT": 3
+        },
+        "Finished": false,
+        "ExitReason": ""
+    },
+    {
+        "Settings": {
+            "bot_minplayers": "0",
+            "capturelimit": "8",
+            "dmflags": "0",
+            "fraglimit": "20",
+            "g_gametype": "0",
+            "g_maxGameClients": "0",
+            "g_needpass": "0",
+            "gamename": "baseq3",
+            "mapname": "q3dm17",
+            "protocol": "68",
+            "sv_allowDownload": "0",
+            "sv_floodProtect": "1",
+            "sv_hostname": "Code Miner Server",
+            "sv_maxPing": "0",
+            "sv_maxRate": "10000",
+            "sv_maxclients": "16",
+            "sv_minPing": "0",
+            "sv_minRate": "0",
+            "sv_privateClients": "2",
+            "timelimit": "15",
+            "version": "ioq3 1.36 linux-x86_64 Apr 12 2009"
+        },
+        "Players": {
+            "Assasinu Credi": {
+                "Name": "Assasinu Credi",
+                "DeathCount": 19,
+                "KillCount": 19
+            },
+            "Chessus": {
+                "Name": "Chessus",
+                "DeathCount": 2,
+                "KillCount": 2
+            },
+            "Dono da Bola": {
+                "Name": "Dono da Bola",
+                "DeathCount": 26,
+                "KillCount": 24
+            },
+            "Isgalamido": {
+                "Name": "Isgalamido",
+                "DeathCount": 15,
+                "KillCount": 11
+            },
+            "Mal": {
+                "Name": "Mal",
+                "DeathCount": 28,
+                "KillCount": 16
+            },
+            "Oootsimo": {
+                "Name": "Oootsimo",
+                "DeathCount": 19,
+                "KillCount": 15
+            },
+            "Zeh": {
+                "Name": "Zeh",
+                "DeathCount": 21,
+                "KillCount": 16
+            }
+        },
+        "Kills": 130,
+        "Mod": {
+            "MOD_FALLING": 7,
+            "MOD_MACHINEGUN": 9,
+            "MOD_RAILGUN": 9,
+            "MOD_ROCKET": 29,
+            "MOD_ROCKET_SPLASH": 49,
+            "MOD_SHOTGUN": 7,
+            "MOD_TRIGGER_HURT": 20
+        },
+        "Finished": true,
+        "ExitReason": "Fraglimit hit."
+    },
+    {
+        "Settings": {
+            "bot_minplayers": "0",
+            "capturelimit": "8",
+            "dmflags": "0",
+            "fraglimit": "20",
+            "g_gametype": "0",
+            "g_maxGameClients": "0",
+            "g_needpass": "0",
+            "gamename": "baseq3",
+            "mapname": "q3dm17",
+            "protocol": "68",
+            "sv_allowDownload": "0",
+            "sv_floodProtect": "1",
+            "sv_hostname": "Code Miner Server",
+            "sv_maxPing": "0",
+            "sv_maxRate": "10000",
+            "sv_maxclients": "16",
+            "sv_minPing": "0",
+            "sv_minRate": "0",
+            "sv_privateClients": "2",
+            "timelimit": "15",
+            "version": "ioq3 1.36 linux-x86_64 Apr 12 2009"
+        },
+        "Players": {
+            "Assasinu Credi": {
+                "Name": "Assasinu Credi",
+                "DeathCount": 17,
+                "KillCount": 15
+            },
+            "Dono da Bola": {
+                "Name": "Dono da Bola",
+                "DeathCount": 16,
+                "KillCount": 14
+            },
+            "Isgalamido": {
+                "Name": "Isgalamido",
+                "DeathCount": 11,
+                "KillCount": 7
+            },
+            "Mal": {
+                "Name": "Mal",
+                "DeathCount": 20,
+                "KillCount": 17
+            },
+            "Oootsimo": {
+                "Name": "Oootsimo",
+                "DeathCount": 14,
+                "KillCount": 13
+            },
+            "Zeh": {
+                "Name": "Zeh",
+                "DeathCount": 11,
+                "KillCount": 8
+            }
+        },
+        "Kills": 89,
+        "Mod": {
+            "MOD_FALLING": 6,
+            "MOD_MACHINEGUN": 4,
+            "MOD_RAILGUN": 12,
+            "MOD_ROCKET": 18,
+            "MOD_ROCKET_SPLASH": 39,
+            "MOD_SHOTGUN": 1,
+            "MOD_TRIGGER_HURT": 9
+        },
+        "Finished": true,
+        "ExitReason": "Fraglimit hit."
+    },
+    {
+        "Settings": {
+            "bot_minplayers": "0",
+            "capturelimit": "8",
+            "dmflags": "0",
+            "fraglimit": "20",
+            "g_gametype": "0",
+            "g_maxGameClients": "0",
+            "g_needpass": "0",
+            "gamename": "baseq3",
+            "mapname": "q3dm17",
+            "protocol": "68",
+            "sv_allowDownload": "0",
+            "sv_floodProtect": "1",
+            "sv_hostname": "Code Miner Server",
+            "sv_maxPing": "0",
+            "sv_maxRate": "10000",
+            "sv_maxclients": "16",
+            "sv_minPing": "0",
+            "sv_minRate": "0",
+            "sv_privateClients": "2",
+            "timelimit": "15",
+            "version": "ioq3 1.36 linux-x86_64 Apr 12 2009"
+        },
+        "Players": {
+            "Assasinu Credi": {
+                "Name": "Assasinu Credi",
+                "DeathCount": 14,
+                "KillCount": 13
+            },
+            "Chessus": {
+                "Name": "Chessus",
+                "DeathCount": 3,
+                "KillCount": 2
+            },
+            "Dono da Bola": {
+                "Name": "Dono da Bola",
+                "DeathCount": 1,
+                "KillCount": 0
+            },
+            "Isgalamido": {
+                "Name": "Isgalamido",
+                "DeathCount": 1,
+                "KillCount": 1
+            },
+            "Mal": {
+                "Name": "Mal",
+                "DeathCount": 15,
+                "KillCount": 11
+            },
+            "Oootsimo": {
+                "Name": "Oootsimo",
+                "DeathCount": 12,
+                "KillCount": 12
+            },
+            "Zeh": {
+                "Name": "Zeh",
+                "DeathCount": 15,
+                "KillCount": 12
+            }
+        },
+        "Kills": 67,
+        "Mod": {
+            "MOD_FALLING": 3,
+            "MOD_MACHINEGUN": 3,
+            "MOD_RAILGUN": 10,
+            "MOD_ROCKET": 17,
+            "MOD_ROCKET_SPLASH": 25,
+            "MOD_SHOTGUN": 1,
+            "MOD_TRIGGER_HURT": 8
+        },
+        "Finished": false,
+        "ExitReason": ""
+    },
+    {
+        "Settings": {
+            "bot_minplayers": "0",
+            "capturelimit": "8",
+            "dmflags": "0",
+            "fraglimit": "20",
+            "g_gametype": "0",
+            "g_maxGameClients": "0",
+            "g_needpass": "0",
+            "gamename": "baseq3",
+            "mapname": "Q3TOURNEY6_CTF",
+            "protocol": "68",
+            "sv_allowDownload": "0",
+            "sv_floodProtect": "1",
+            "sv_hostname": "Code Miner Server",
+            "sv_maxPing": "0",
+            "sv_maxRate": "10000",
+            "sv_maxclients": "16",
+            "sv_minPing": "0",
+            "sv_minRate": "0",
+            "sv_privateClients": "2",
+            "timelimit": "15",
+            "version": "ioq3 1.36 linux-x86_64 Apr 12 2009"
+        },
+        "Players": {
+            "Assasinu Credi": {
+                "Name": "Assasinu Credi",
+                "DeathCount": 8,
+                "KillCount": 6
+            },
+            "Chessus": {
+                "Name": "Chessus",
+                "DeathCount": 9,
+                "KillCount": 8
+            },
+            "Dono da Bola": {
+                "Name": "Dono da Bola",
+                "DeathCount": 3,
+                "KillCount": 1
+            },
+            "Isgalamido": {
+                "Name": "Isgalamido",
+                "DeathCount": 13,
+                "KillCount": 9
+            },
+            "Mal": {
+                "Name": "Mal",
+                "DeathCount": 14,
+                "KillCount": 9
+            },
+            "Oootsimo": {
+                "Name": "Oootsimo",
+                "DeathCount": 8,
+                "KillCount": 6
+            },
+            "Zeh": {
+                "Name": "Zeh",
+                "DeathCount": 5,
+                "KillCount": 3
+            }
+        },
+        "Kills": 60,
+        "Mod": {
+            "MOD_BFG": 2,
+            "MOD_BFG_SPLASH": 2,
+            "MOD_CRUSH": 1,
+            "MOD_MACHINEGUN": 1,
+            "MOD_RAILGUN": 7,
+            "MOD_ROCKET": 4,
+            "MOD_ROCKET_SPLASH": 1,
+            "MOD_TELEFRAG": 25,
+            "MOD_TRIGGER_HURT": 17
+        },
+        "Finished": false,
+        "ExitReason": ""
+    },
+    {
+        "Settings": {
+            "bot_minplayers": "0",
+            "capturelimit": "8",
+            "dmflags": "0",
+            "fraglimit": "20",
+            "g_gametype": "4",
+            "g_maxGameClients": "0",
+            "g_needpass": "0",
+            "gamename": "baseq3",
+            "mapname": "Q3TOURNEY6_CTF",
+            "protocol": "68",
+            "sv_allowDownload": "0",
+            "sv_floodProtect": "1",
+            "sv_hostname": "Code Miner Server",
+            "sv_maxPing": "0",
+            "sv_maxRate": "10000",
+            "sv_maxclients": "16",
+            "sv_minPing": "0",
+            "sv_minRate": "0",
+            "sv_privateClients": "2",
+            "timelimit": "15",
+            "version": "ioq3 1.36 linux-x86_64 Apr 12 2009"
+        },
+        "Players": {
+            "Assasinu Credi": {
+                "Name": "Assasinu Credi",
+                "DeathCount": 4,
+                "KillCount": 1
+            },
+            "Chessus": {
+                "Name": "Chessus",
+                "DeathCount": 3,
+                "KillCount": 3
+            },
+            "Dono da Bola": {
+                "Name": "Dono da Bola",
+                "DeathCount": 5,
+                "KillCount": 2
+            },
+            "Isgalamido": {
+                "Name": "Isgalamido",
+                "DeathCount": 4,
+                "KillCount": 2
+            },
+            "Mal": {
+                "Name": "Mal",
+                "DeathCount": 1,
+                "KillCount": 1
+            },
+            "Oootsimo": {
+                "Name": "Oootsimo",
+                "DeathCount": 1,
+                "KillCount": 1
+            },
+            "Zeh": {
+                "Name": "Zeh",
+                "DeathCount": 2,
+                "KillCount": 2
+            }
+        },
+        "Kills": 20,
+        "Mod": {
+            "MOD_BFG_SPLASH": 3,
+            "MOD_CRUSH": 1,
+            "MOD_MACHINEGUN": 1,
+            "MOD_RAILGUN": 4,
+            "MOD_ROCKET_SPLASH": 4,
+            "MOD_TRIGGER_HURT": 7
+        },
+        "Finished": false,
+        "ExitReason": ""
+    },
+    {
+        "Settings": {
+            "bot_minplayers": "0",
+            "capturelimit": "8",
+            "dmflags": "0",
+            "fraglimit": "20",
+            "g_gametype": "4",
+            "g_maxGameClients": "0",
+            "g_needpass": "0",
+            "gamename": "baseq3",
+            "mapname": "Q3TOURNEY6_CTF",
+            "protocol": "68",
+            "sv_allowDownload": "0",
+            "sv_floodProtect": "1",
+            "sv_hostname": "Code Miner Server",
+            "sv_maxPing": "0",
+            "sv_maxRate": "10000",
+            "sv_maxclients": "16",
+            "sv_minPing": "0",
+            "sv_minRate": "0",
+            "sv_privateClients": "2",
+            "timelimit": "15",
+            "version": "ioq3 1.36 linux-x86_64 Apr 12 2009"
+        },
+        "Players": {
+            "Assasinu Credi": {
+                "Name": "Assasinu Credi",
+                "DeathCount": 19,
+                "KillCount": 16
+            },
+            "Chessus": {
+                "Name": "Chessus",
+                "DeathCount": 24,
+                "KillCount": 20
+            },
+            "Dono da Bola": {
+                "Name": "Dono da Bola",
+                "DeathCount": 31,
+                "KillCount": 23
+            },
+            "Isgalamido": {
+                "Name": "Isgalamido",
+                "DeathCount": 21,
+                "KillCount": 21
+            },
+            "Mal": {
+                "Name": "Mal",
+                "DeathCount": 26,
+                "KillCount": 12
+            },
+            "Oootsimo": {
+                "Name": "Oootsimo",
+                "DeathCount": 23,
+                "KillCount": 14
+            },
+            "Zeh": {
+                "Name": "Zeh",
+                "DeathCount": 16,
+                "KillCount": 15
+            }
+        },
+        "Kills": 160,
+        "Mod": {
+            "MOD_BFG": 8,
+            "MOD_BFG_SPLASH": 8,
+            "MOD_FALLING": 2,
+            "MOD_MACHINEGUN": 7,
+            "MOD_RAILGUN": 38,
+            "MOD_ROCKET": 25,
+            "MOD_ROCKET_SPLASH": 35,
+            "MOD_TRIGGER_HURT": 37
+        },
+        "Finished": true,
+        "ExitReason": "Capturelimit hit."
+    },
+    {
+        "Settings": {
+            "bot_minplayers": "0",
+            "capturelimit": "8",
+            "dmflags": "0",
+            "fraglimit": "20",
+            "g_gametype": "4",
+            "g_maxGameClients": "0",
+            "g_needpass": "0",
+            "gamename": "baseq3",
+            "mapname": "Q3TOURNEY6_CTF",
+            "protocol": "68",
+            "sv_allowDownload": "0",
+            "sv_floodProtect": "1",
+            "sv_hostname": "Code Miner Server",
+            "sv_maxPing": "0",
+            "sv_maxRate": "10000",
+            "sv_maxclients": "16",
+            "sv_minPing": "0",
+            "sv_minRate": "0",
+            "sv_privateClients": "2",
+            "timelimit": "15",
+            "version": "ioq3 1.36 linux-x86_64 Apr 12 2009"
+        },
+        "Players": {
+            "Assasinu Credi": {
+                "Name": "Assasinu Credi",
+                "DeathCount": 2,
+                "KillCount": 2
+            },
+            "Chessus": {
+                "Name": "Chessus",
+                "DeathCount": 0,
+                "KillCount": 0
+            },
+            "Dono da Bola": {
+                "Name": "Dono da Bola",
+                "DeathCount": 2,
+                "KillCount": 1
+            },
+            "Isgalamido": {
+                "Name": "Isgalamido",
+                "DeathCount": 1,
+                "KillCount": 0
+            },
+            "Mal": {
+                "Name": "Mal",
+                "DeathCount": 0,
+                "KillCount": 0
+            },
+            "Oootsimo": {
+                "Name": "Oootsimo",
+                "DeathCount": 1,
+                "KillCount": 1
+            },
+            "Zeh": {
+                "Name": "Zeh",
+                "DeathCount": 0,
+                "KillCount": 0
+            }
+        },
+        "Kills": 6,
+        "Mod": {
+            "MOD_BFG": 1,
+            "MOD_BFG_SPLASH": 1,
+            "MOD_ROCKET": 1,
+            "MOD_ROCKET_SPLASH": 1,
+            "MOD_TRIGGER_HURT": 2
+        },
+        "Finished": false,
+        "ExitReason": ""
+    },
+    {
+        "Settings": {
+            "bot_minplayers": "0",
+            "capturelimit": "8",
+            "dmflags": "0",
+            "fraglimit": "20",
+            "g_gametype": "4",
+            "g_maxGameClients": "0",
+            "g_needpass": "0",
+            "gamename": "baseq3",
+            "mapname": "Q3TOURNEY6_CTF",
+            "protocol": "68",
+            "sv_allowDownload": "0",
+            "sv_floodProtect": "1",
+            "sv_hostname": "Code Miner Server",
+            "sv_maxPing": "0",
+            "sv_maxRate": "10000",
+            "sv_maxclients": "16",
+            "sv_minPing": "0",
+            "sv_minRate": "0",
+            "sv_privateClients": "2",
+            "timelimit": "15",
+            "version": "ioq3 1.36 linux-x86_64 Apr 12 2009"
+        },
+        "Players": {
+            "Assasinu Credi": {
+                "Name": "Assasinu Credi",
+                "DeathCount": 19,
+                "KillCount": 14
+            },
+            "Chessus": {
+                "Name": "Chessus",
+                "DeathCount": 14,
+                "KillCount": 11
+            },
+            "Dono da Bola": {
+                "Name": "Dono da Bola",
+                "DeathCount": 25,
+                "KillCount": 18
+            },
+            "Isgalamido": {
+                "Name": "Isgalamido",
+                "DeathCount": 12,
+                "KillCount": 9
+            },
+            "Mal": {
+                "Name": "Mal",
+                "DeathCount": 20,
+                "KillCount": 12
+            },
+            "Oootsimo": {
+                "Name": "Oootsimo",
+                "DeathCount": 11,
+                "KillCount": 8
+            },
+            "Zeh": {
+                "Name": "Zeh",
+                "DeathCount": 21,
+                "KillCount": 14
+            }
+        },
+        "Kills": 122,
+        "Mod": {
+            "MOD_BFG": 5,
+            "MOD_BFG_SPLASH": 10,
+            "MOD_FALLING": 5,
+            "MOD_MACHINEGUN": 4,
+            "MOD_RAILGUN": 20,
+            "MOD_ROCKET": 23,
+            "MOD_ROCKET_SPLASH": 24,
+            "MOD_TRIGGER_HURT": 31
+        },
+        "Finished": true,
+        "ExitReason": "Capturelimit hit."
+    },
+    {
+        "Settings": {
+            "bot_minplayers": "0",
+            "capturelimit": "8",
+            "dmflags": "0",
+            "fraglimit": "20",
+            "g_gametype": "4",
+            "g_maxGameClients": "0",
+            "g_needpass": "0",
+            "gamename": "baseq3",
+            "mapname": "Q3TOURNEY6_CTF",
+            "protocol": "68",
+            "sv_allowDownload": "0",
+            "sv_floodProtect": "1",
+            "sv_hostname": "Code Miner Server",
+            "sv_maxPing": "0",
+            "sv_maxRate": "10000",
+            "sv_maxclients": "16",
+            "sv_minPing": "0",
+            "sv_minRate": "0",
+            "sv_privateClients": "2",
+            "timelimit": "15",
+            "version": "ioq3 1.36 linux-x86_64 Apr 12 2009"
+        },
+        "Players": {
+            "Assasinu Credi": {
+                "Name": "Assasinu Credi",
+                "DeathCount": 0,
+                "KillCount": 0
+            },
+            "Zeh": {
+                "Name": "Zeh",
+                "DeathCount": 3,
+                "KillCount": 0
+            }
+        },
+        "Kills": 3,
+        "Mod": {
+            "MOD_TRIGGER_HURT": 3
+        },
+        "Finished": true,
+        "ExitReason": "Timelimit hit."
+    },
+    {
+        "Settings": {
+            "bot_minplayers": "0",
+            "capturelimit": "8",
+            "dmflags": "0",
+            "fraglimit": "20",
+            "g_gametype": "4",
+            "g_maxGameClients": "0",
+            "g_needpass": "0",
+            "gamename": "baseq3",
+            "mapname": "q3dm17",
+            "protocol": "68",
+            "sv_allowDownload": "0",
+            "sv_floodProtect": "1",
+            "sv_hostname": "Code Miner Server",
+            "sv_maxPing": "0",
+            "sv_maxRate": "10000",
+            "sv_maxclients": "16",
+            "sv_minPing": "0",
+            "sv_minRate": "0",
+            "sv_privateClients": "2",
+            "timelimit": "15",
+            "version": "ioq3 1.36 linux-x86_64 Apr 12 2009"
+        },
+        "Players": {
+            "Assasinu Credi": {
+                "Name": "Assasinu Credi",
+                "DeathCount": 4,
+                "KillCount": 1
+            },
+            "Dono da Bola": {
+                "Name": "Dono da Bola",
+                "DeathCount": 2,
+                "KillCount": 0
+            },
+            "Isgalamido": {
+                "Name": "Isgalamido",
+                "DeathCount": 1,
+                "KillCount": 0
+            },
+            "Mal": {
+                "Name": "Mal",
+                "DeathCount": 1,
+                "KillCount": 0
+            },
+            "Oootsimo": {
+                "Name": "Oootsimo",
+                "DeathCount": 3,
+                "KillCount": 2
+            },
+            "Zeh": {
+                "Name": "Zeh",
+                "DeathCount": 2,
+                "KillCount": 1
+            }
+        },
+        "Kills": 13,
+        "Mod": {
+            "MOD_FALLING": 3,
+            "MOD_RAILGUN": 2,
+            "MOD_ROCKET_SPLASH": 2,
+            "MOD_TRIGGER_HURT": 6
+        },
+        "Finished": false,
+        "ExitReason": ""
+    },
+    {
+        "Settings": {
+            "bot_minplayers": "0",
+            "capturelimit": "8",
+            "dmflags": "0",
+            "fraglimit": "20",
+            "g_gametype": "= 0",
+            "g_maxGameClients": "0",
+            "g_needpass": "0",
+            "gamename": "baseq3",
+            "mapname": "q3dm17",
+            "protocol": "68",
+            "sv_allowDownload": "0",
+            "sv_floodProtect": "1",
+            "sv_hostname": "Code Miner Server",
+            "sv_maxPing": "0",
+            "sv_maxRate": "10000",
+            "sv_maxclients": "16",
+            "sv_minPing": "0",
+            "sv_minRate": "0",
+            "sv_privateClients": "2",
+            "timelimit": "15",
+            "version": "ioq3 1.36 linux-x86_64 Apr 12 2009"
+        },
+        "Players": {
+            "Assasinu Credi": {
+                "Name": "Assasinu Credi",
+                "DeathCount": 1,
+                "KillCount": 1
+            },
+            "Dono da Bola": {
+                "Name": "Dono da Bola",
+                "DeathCount": 1,
+                "KillCount": 0
+            },
+            "Isgalamido": {
+                "Name": "Isgalamido",
+                "DeathCount": 1,
+                "KillCount": 1
+            },
+            "Mal": {
+                "Name": "Mal",
+                "DeathCount": 2,
+                "KillCount": 1
+            },
+            "Oootsimo": {
+                "Name": "Oootsimo",
+                "DeathCount": 1,
+                "KillCount": 1
+            },
+            "Zeh": {
+                "Name": "Zeh",
+                "DeathCount": 1,
+                "KillCount": 1
+            }
+        },
+        "Kills": 7,
+        "Mod": {
+            "MOD_FALLING": 1,
+            "MOD_ROCKET": 1,
+            "MOD_ROCKET_SPLASH": 4,
+            "MOD_TRIGGER_HURT": 1
+        },
+        "Finished": false,
+        "ExitReason": ""
+    },
+    {
+        "Settings": {
+            "bot_minplayers": "0",
+            "capturelimit": "8",
+            "dmflags": "0",
+            "fraglimit": "20",
+            "g_gametype": "= 0",
+            "g_maxGameClients": "0",
+            "g_needpass": "0",
+            "gamename": "baseq3",
+            "mapname": "q3dm17",
+            "protocol": "68",
+            "sv_allowDownload": "0",
+            "sv_floodProtect": "1",
+            "sv_hostname": "Code Miner Server",
+            "sv_maxPing": "0",
+            "sv_maxRate": "10000",
+            "sv_maxclients": "16",
+            "sv_minPing": "0",
+            "sv_minRate": "0",
+            "sv_privateClients": "2",
+            "timelimit": "15",
+            "version": "ioq3 1.36 linux-x86_64 Apr 12 2009"
+        },
+        "Players": {
+            "Assasinu Credi": {
+                "Name": "Assasinu Credi",
+                "DeathCount": 17,
+                "KillCount": 14
+            },
+            "Dono da Bola": {
+                "Name": "Dono da Bola",
+                "DeathCount": 15,
+                "KillCount": 14
+            },
+            "Isgalamido": {
+                "Name": "Isgalamido",
+                "DeathCount": 12,
+                "KillCount": 11
+            },
+            "Mal": {
+                "Name": "Mal",
+                "DeathCount": 19,
+                "KillCount": 13
+            },
+            "Oootsimo": {
+                "Name": "Oootsimo",
+                "DeathCount": 14,
+                "KillCount": 13
+            },
+            "Zeh": {
+                "Name": "Zeh",
+                "DeathCount": 18,
+                "KillCount": 17
+            }
+        },
+        "Kills": 95,
+        "Mod": {
+            "MOD_FALLING": 1,
+            "MOD_MACHINEGUN": 7,
+            "MOD_RAILGUN": 10,
+            "MOD_ROCKET": 27,
+            "MOD_ROCKET_SPLASH": 32,
+            "MOD_SHOTGUN": 6,
+            "MOD_TRIGGER_HURT": 12
+        },
+        "Finished": true,
+        "ExitReason": "Fraglimit hit."
+    },
+    {
+        "Settings": {
+            "bot_minplayers": "0",
+            "capturelimit": "8",
+            "dmflags": "0",
+            "fraglimit": "20",
+            "g_gametype": "= 0",
+            "g_maxGameClients": "0",
+            "g_needpass": "0",
+            "gamename": "baseq3",
+            "mapname": "q3dm17",
+            "protocol": "68",
+            "sv_allowDownload": "0",
+            "sv_floodProtect": "1",
+            "sv_hostname": "Code Miner Server",
+            "sv_maxPing": "0",
+            "sv_maxRate": "10000",
+            "sv_maxclients": "16",
+            "sv_minPing": "0",
+            "sv_minRate": "0",
+            "sv_privateClients": "2",
+            "timelimit": "15",
+            "version": "ioq3 1.36 linux-x86_64 Apr 12 2009"
+        },
+        "Players": {
+            "Assasinu Credi": {
+                "Name": "Assasinu Credi",
+                "DeathCount": 1,
+                "KillCount": 1
+            },
+            "Dono da Bola": {
+                "Name": "Dono da Bola",
+                "DeathCount": 1,
+                "KillCount": 1
+            },
+            "Isgalamido": {
+                "Name": "Isgalamido",
+                "DeathCount": 0,
+                "KillCount": 0
+            },
+            "Mal": {
+                "Name": "Mal",
+                "DeathCount": 0,
+                "KillCount": 0
+            },
+            "Oootsimo": {
+                "Name": "Oootsimo",
+                "DeathCount": 0,
+                "KillCount": 0
+            },
+            "Zeh": {
+                "Name": "Zeh",
+                "DeathCount": 1,
+                "KillCount": 1
+            }
+        },
+        "Kills": 3,
+        "Mod": {
+            "MOD_ROCKET": 1,
+            "MOD_ROCKET_SPLASH": 2
+        },
+        "Finished": false,
+        "ExitReason": ""
+    },
+    {
+        "Settings": {
+            "bot_minplayers": "0",
+            "capturelimit": "8",
+            "dmflags": "0",
+            "fraglimit": "20",
+            "g_gametype": "= 0",
+            "g_maxGameClients": "0",
+            "g_needpass": "0",
+            "gamename": "baseq3",
+            "mapname": "q3dm17",
+            "protocol": "68",
+            "sv_allowDownload": "0",
+            "sv_floodProtect": "1",
+            "sv_hostname": "Code Miner Server",
+            "sv_maxPing": "0",
+            "sv_maxRate": "10000",
+            "sv_maxclients": "16",
+            "sv_minPing": "0",
+            "sv_minRate": "0",
+            "sv_privateClients": "2",
+            "timelimit": "15",
+            "version": "ioq3 1.36 linux-x86_64 Apr 12 2009"
+        },
+        "Players": {
+            "Assasinu Credi": {
+                "Name": "Assasinu Credi",
+                "DeathCount": 30,
+                "KillCount": 27
+            },
+            "Dono da Bola": {
+                "Name": "Dono da Bola",
+                "DeathCount": 19,
+                "KillCount": 17
+            },
+            "Isgalamido": {
+                "Name": "Isgalamido",
+                "DeathCount": 19,
+                "KillCount": 17
+            },
+            "Mal": {
+                "Name": "Mal",
+                "DeathCount": 30,
+                "KillCount": 24
+            },
+            "Oootsimo": {
+                "Name": "Oootsimo",
+                "DeathCount": 18,
+                "KillCount": 16
+            },
+            "Zeh": {
+                "Name": "Zeh",
+                "DeathCount": 15,
+                "KillCount": 13
+            }
+        },
+        "Kills": 131,
+        "Mod": {
+            "MOD_FALLING": 3,
+            "MOD_MACHINEGUN": 4,
+            "MOD_RAILGUN": 9,
+            "MOD_ROCKET": 37,
+            "MOD_ROCKET_SPLASH": 60,
+            "MOD_SHOTGUN": 4,
+            "MOD_TRIGGER_HURT": 14
+        },
+        "Finished": true,
+        "ExitReason": "Fraglimit hit."
+    }
+]

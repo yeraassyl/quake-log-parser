@@ -69,7 +69,7 @@ func ParseLogs(filePath string) ([]Game, error) {
 
 		if command == "InitGame" {
 			if game != nil {
-				return nil, fmt.Errorf("Logfile is not consistent")
+				return nil, fmt.Errorf("logfile is not consistent")
 			}
 			// Start a new game and reset the players
 			game = &Game{Settings: make(map[string]string), Players: make(map[string]Player), Mod: make(map[string]int)}
@@ -95,7 +95,7 @@ func ParseLogs(filePath string) ([]Game, error) {
 			}
 
 		} else if game != nil && command == "Kill" {
-			killerID, killedID, modID := parts[2], parts[3], parts[4]
+			killerID, killedID, modID := parts[2], parts[3], parts[4][:len(parts[4])-1]
 			game.Kills++
 			game.Mod[MOD[modID]]++
 
