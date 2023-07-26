@@ -30,25 +30,7 @@ Match structure:
   "Settings": {
     "bot_minplayers": "0",
     "capturelimit": "8",
-    "dmflags": "0",
-    "fraglimit": "20",
-    "g_gametype": "= 0",
-    "g_maxGameClients": "0",
-    "g_needpass": "0",
-    "gamename": "baseq3",
-    "mapname": "q3dm17",
-    "protocol": "68",
-    "sv_allowDownload": "0",
-    "sv_floodProtect": "1",
-    "sv_hostname": "Code Miner Server",
-    "sv_maxPing": "0",
-    "sv_maxRate": "10000",
-    "sv_maxclients": "16",
-    "sv_minPing": "0",
-    "sv_minRate": "0",
-    "sv_privateClients": "2",
-    "timelimit": "15",
-    "version": "ioq3 1.36 linux-x86_64 Apr 12 2009"
+    "dmflags": "0"
   },
   "Players": {
     "Assasinu Credi": {
@@ -60,37 +42,13 @@ Match structure:
       "Name": "Dono da Bola",
       "DeathCount": 19,
       "KillCount": 17
-    },
-    "Isgalamido": {
-      "Name": "Isgalamido",
-      "DeathCount": 19,
-      "KillCount": 17
-    },
-    "Mal": {
-      "Name": "Mal",
-      "DeathCount": 30,
-      "KillCount": 24
-    },
-    "Oootsimo": {
-      "Name": "Oootsimo",
-      "DeathCount": 18,
-      "KillCount": 16
-    },
-    "Zeh": {
-      "Name": "Zeh",
-      "DeathCount": 15,
-      "KillCount": 13
     }
   },
   "Kills": 131,
   "Mod": {
     "MOD_FALLING": 3,
     "MOD_MACHINEGUN": 4,
-    "MOD_RAILGUN": 9,
-    "MOD_ROCKET": 37,
-    "MOD_ROCKET_SPLASH": 60,
-    "MOD_SHOTGUN": 4,
-    "MOD_TRIGGER_HURT": 14
+    "MOD_RAILGUN": 9
   },
   "Finished": true,
   "ExitReason": "Fraglimit hit."
